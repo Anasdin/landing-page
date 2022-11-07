@@ -24,3 +24,9 @@ div ul{
     font-size: 18px;
     color: #e5e7eb;
 }
+
+h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
