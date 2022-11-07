@@ -18,3 +18,9 @@ body {
     font-size: 24px;
     color: #f9faf8;
 }
+
+div ul{
+    list-style: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
