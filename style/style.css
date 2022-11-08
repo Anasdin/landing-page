@@ -39,6 +39,9 @@ h1 {
 
 button {
     background-color: #3882f6;
+    color: white;
+    border-style: none;
+    border-radius: 3px;
 }
 
 .illistrator h2 {
@@ -53,3 +56,10 @@ button {
     font-weight: 300;
     font-style: oblique;
 }
+
+.img-holder {
+    width: 350px;
+    background-color: gray ;
+    height: 150px;
+}
+
